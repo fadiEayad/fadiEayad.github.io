@@ -1,0 +1,38 @@
+body {
+  background: linen;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+  line-height: 23px;
+}
+
+#top-container {
+  padding-top: 70px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.thumbnail {
+  text-align: center;
+}
+
+.navbar-nav>li>a {
+  text-align: left;
+}
+
+footer {
+  border: 1px solid #222;
+  background: #222;
+  color: white;
+  position: relative;  
+  right: 0px;
+  bottom: 0px;
+  padding-bottom: 5px;
+  width: 100%;
+  text-align: center;
+}
+
+#contact:focus {
+  color: #9d9d9d;
+}
